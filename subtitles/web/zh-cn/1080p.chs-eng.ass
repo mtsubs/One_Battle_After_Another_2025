@@ -26,13 +26,13 @@ Dialogue: 0,0:01:41.61,0:01:43.22,Default,,0,0,0,,很难数清 可能比这还�
 Dialogue: 0,0:01:43.24,0:01:44.60,Default,,0,0,0,,等正式行动的时候\NWe need to be prepared for, like,
 Dialogue: 0,0:01:44.62,0:01:47.18,Default,,0,0,0,,我们要做好带走300人的准备\N300 people by the time we get there, right?
 Dialogue: 0,0:01:47.37,0:01:49.85,Default,,0,0,0,,我们这辆集装箱大卡车\NOur cargo container, 18-wheeler,
-Dialogue: 0,0:01:49.87,0:01:53.27,Default,,0,0,0,,拖一个集装箱 最多能装160人\Nthat thing only holds 160 people.
+Dialogue: 0,0:01:49.87,0:01:53.27,Default,,0,0,0,,拖一个集装箱 最多能装160人\NThat thing only holds 160 people.
 Dialogue: 0,0:01:53.29,0:01:55.36,Default,,0,0,0,,还得是人挤人...\NI'm talking 'bout crammed in there tight...
 Dialogue: 0,0:01:55.38,0:01:56.28,Default,,0,0,0,,前胸贴后背\NThat's cheek to jowl.
 Dialogue: 0,0:01:56.30,0:01:58.04,Default,,0,0,0,,...脸贴脸的\N...smashed face to face.
 Dialogue: 0,0:01:58.22,0:01:59.82,Default,,0,0,0,,让女人孩子先上车\NWomen and children first.
 Dialogue: 0,0:01:59.84,0:02:02.24,Default,,0,0,0,,听着 那些上不了车的\NListen, whoever's not on with us,
-Dialogue: 0,0:02:02.26,0:02:03.68,Default,,0,0,0,,就让他们自己跑\Nthey just run, on foot.
+Dialogue: 0,0:02:02.26,0:02:03.68,Default,,0,0,0,,就让他们自己跑\NThey just run, on foot.
 Dialogue: 0,0:02:03.71,0:02:06.03,Default,,0,0,0,,上不了车的 只能自己跑\NThat's it. If they're not with us, they run.
 Dialogue: 0,0:02:06.06,0:02:08.79,Default,,0,0,0,,记住 我们从友谊路撤退\NVia de la Amistad, that's our exit route.
 Dialogue: 0,0:02:08.81,0:02:11.38,Default,,0,0,0,,它是东西向的 离905公路约一两公里\NRuns east-west. It's about one mile from 905.
@@ -41,7 +41,7 @@ Dialogue: 0,0:02:11.93,0:02:13.72,Default,,0,0,0,,你的车里装了什么？\NW
 Dialogue: 0,0:02:13.90,0:02:15.96,Default,,0,0,0,,我车里有的是自制炸药\NListen, I got HMEs.
 Dialogue: 0,0:02:15.98,0:02:17.26,Default,,0,0,0,,有迫击炮 还有催泪瓦斯\NI got mortars, I got tear gas, 
 Dialogue: 0,0:02:17.28,0:02:18.42,Default,,0,0,0,,你们需要的我都有\NI got whatever you guys need,
-Dialogue: 0,0:02:18.44,0:02:21.20,Default,,0,0,0,,可我还不清楚计划是什么\Nbut I'm a little unclear as to what the plan is.
+Dialogue: 0,0:02:18.44,0:02:21.20,Default,,0,0,0,,可我还不清楚计划是什么\NBut I'm a little unclear as to what the plan is.
 Dialogue: 0,0:02:21.23,0:02:22.35,Default,,0,0,0,,能不能说明一下？\NI'm gonna need some direction.
 Dialogue: 0,0:02:22.37,0:02:25.28,Default,,0,0,0,,没什么不清楚的 我都计划好了\NDon't be unclear. I got a plan for us.
 Dialogue: 0,0:02:25.58,0:02:26.47,Default,,0,0,0,,什么计划？\NWell, what is it?
@@ -193,7 +193,7 @@ Dialogue: 0,0:10:11.63,0:10:14.38,Default,,0,0,0,,威尔逊参议员 这是对�
 Dialogue: 0,0:10:14.41,0:10:30.28,Note,,0,0,0,,{\an7}（公用电话）
 Dialogue: 0,0:10:14.92,0:10:16.86,Default,,0,0,0,,我们在你连任竞选的办公室里\NWe planted a bomb at the Haymarket office
 Dialogue: 0,0:10:16.88,0:10:17.92,Default,,0,0,0,,放了一个炸弹\Nof your re-election campaign.
-Dialogue: 0,0:10:18.79,0:10:20.59,Default,,0,0,0,,我们警告过你不要  堕胎禁令\NWe warned you, that abortion ban,
+Dialogue: 0,0:10:18.79,0:10:20.59,Default,,0,0,0,,我们警告过你不要通告堕胎禁令\NWe warned you, that abortion ban,
 Dialogue: 0,0:10:18.79,0:10:22.58,Note,,0,0,0,,{\an9}【堕胎权：女性自主决定是否终止妊娠的权利】
 Dialogue: 0,0:10:20.61,0:10:21.87,Default,,0,0,0,,可你根本不听\Nand you didn't wanna fuckin' listen.
 Dialogue: 0,0:10:22.55,0:10:25.77,Default,,0,0,0,,所以 为了受苦的姐妹们 我们要行动\NSo, for my sisters in need, we will strike.
@@ -243,7 +243,7 @@ Dialogue: 0,0:12:49.89,0:12:59.24,Note,,0,0,0,,{\an8}《一战再战》
 Dialogue: 0,0:13:02.92,0:13:05.36,Default,,0,0,0,,我们准备了两套遥控器 爆破两个地点\NWe have two devices for two locations,
 Dialogue: 0,0:13:05.38,0:13:07.45,Default,,0,0,0,,之间相隔三个街区\Nset three blocks apart.
 Dialogue: 0,0:13:07.47,0:13:10.51,Default,,0,0,0,,梅·韦斯特负责安装行政大楼的炸弹\NMae West completes her device in the administration building,
-Dialogue: 0,0:13:07.47,0:13:12.88,Default,,0,0,0,,{\an9}【梅·韦斯特：借用好莱坞性感女星之名 暗指利用种族与外表特权作为渗透工具】
+Dialogue: 0,0:13:07.47,0:13:12.88,Note,,0,0,0,,{\an9}【梅·韦斯特：借用好莱坞性感女星之名 暗指利用种族与外表特权作为渗透工具】
 Dialogue: 0,0:13:11.06,0:13:13.75,Default,,0,0,0,,我和叛娅负责法院的遥控器安装\NPerfidia and I take the courthouse.
 Dialogue: 0,0:13:13.85,0:13:15.44,Default,,0,0,0,,炸弹已提前放好\NBombs are planted,
 Dialogue: 0,0:13:15.46,0:13:20.00,Default,,0,0,0,,遥控装好后 晚上七点下班后远程引爆\Ndevices are detonated by remote at 7 p.m. after hours.
@@ -257,9 +257,9 @@ Dialogue: 0,0:14:30.14,0:14:32.28,Default,,0,0,0,,你想炸掉什么都可以\NY
 Dialogue: 0,0:14:32.30,0:14:34.10,Default,,0,0,0,,我根本不在乎\Nit doesn't make any difference to me.
 Dialogue: 0,0:14:35.55,0:14:38.94,Default,,0,0,0,,我要我的帽子 还有我的枪\NI want my hat. And my gun.
 Dialogue: 0,0:14:41.73,0:14:43.98,Default,,0,0,0,,要是你不想被人告发\NIf you wanna keep doing what you're doing,
-Dialogue: 0,0:14:44.82,0:14:48.22,Default,,0,0,0,,那就今晚11点 来春歧途酒店找我\Nyou'll meet me at the Primrose Path, 2300.
+Dialogue: 0,0:14:44.82,0:14:48.22,Default,,0,0,0,,那就今晚11点 来春歧途酒店找我\NYou'll meet me at the Primrose Path, 2300.
 Dialogue: 0,0:15:31.95,0:15:35.36,Music,,0,0,0,,{\an7}♪ 小战士\N♪ Soldier boy ♪
-Dialogue: 0,0:15:35.60,0:15:40.23,Music,,0,0,0,,{\an7}♪ 哦 我的小战士 \N♪ Oh, my little soldier boy ♪
+Dialogue: 0,0:15:35.60,0:15:40.23,Music,,0,0,0,,{\an7}♪ 哦 我的小战士\N♪ Oh, my little soldier boy ♪
 Dialogue: 0,0:15:41.83,0:15:48.84,Music,,0,0,0,,{\an7}♪ 我会对你忠诚 ♪\N♪ I'll be true to you ♪
 Dialogue: 0,0:15:49.96,0:15:54.76,Music,,0,0,0,,{\an7}♪ 你是我的初恋\N♪ You were my first love ♪
 Dialogue: 0,0:15:55.55,0:15:59.50,Music,,0,0,0,,{\an7}♪ 也是我最后的爱人 ♪\N♪ And you'll be my last love ♪
@@ -357,9 +357,9 @@ Dialogue: 0,0:20:24.46,0:20:25.39,Default,,0,0,0,,对\NYeah.
 Dialogue: 0,0:20:26.66,0:20:28.33,Default,,0,0,0,,我可不是孩子保姆\NI'm not your udder buddy.
 Dialogue: 0,0:20:29.49,0:20:31.06,Default,,0,0,0,,我也不是你妈\NI'm not your mother.
 Dialogue: 0,0:20:33.04,0:20:34.48,Default,,0,0,0,,你想要掌控我\NYou want your power over me,
-Dialogue: 0,0:20:34.50,0:20:36.92,Default,,0,0,0,,就像你们男人总想掌控一切\Nthe same reason you want your power over the world.
-Dialogue: 0,0:20:37.95,0:20:41.07,Default,,0,0,0,,你和你那玻璃心的大男子主义\NYou and your crumblin' male ego
-Dialogue: 0,0:20:41.09,0:20:43.56,Default,,0,0,0,,永远不会成为这场革命的战友\Nwill never do this revolution like me.
+Dialogue: 0,0:20:34.50,0:20:36.92,Default,,0,0,0,,就像你们男人总想掌控一切\NThe same reason you want your power over the world.
+Dialogue: 0,0:20:37.92,0:20:41.07,Default,,0,0,0,,你和你那玻璃心的大男子主义\NYou and your crumblin' male ego...
+Dialogue: 0,0:20:41.09,0:20:43.56,Default,,0,0,0,,永远不会成为这场革命的战友\NWill never do this revolution like me.
 Dialogue: 0,0:20:43.66,0:20:45.35,Default,,0,0,0,,所以请滚出我的房子\NFuck outta here.
 Dialogue: 0,0:20:45.37,0:20:48.29,Default,,0,0,0,,那你还是闹革命去吧 再见\NDo the revolution, baby. Go do it.
 Dialogue: 0,0:21:09.58,0:21:11.25,Default,,0,0,0,,你有孩子是吗？\NYou got a baby?
@@ -373,28 +373,27 @@ Dialogue: 0,0:21:26.13,0:21:27.84,Default,,0,0,0,,像黑女的名字\NSounds lik
 Dialogue: 0,0:21:31.14,0:21:32.86,Default,,0,0,0,,你喜欢黑女吗？\NYou like Black girls?
 Dialogue: 0,0:21:33.60,0:21:34.67,Default,,0,0,0,,我超喜欢\NI love 'em.
 Dialogue: 0,0:21:36.06,0:21:37.29,Default,,0,0,0,,我爱死她们了\NI love them!
-Dialogue: 0,0:21:54.65,0:21:55.65,Default,,0,0,0,,【小p精确调整至此】
 Dialogue: 0,0:21:58.11,0:21:58.69,Default,,0,0,0,,跪下\NGet on your knees.
 Dialogue: 0,0:21:58.71,0:21:59.69,Default,,0,0,0,,给我跪下\NGet on your fuckin' knees.
 Dialogue: 0,0:21:59.71,0:22:01.12,Default,,0,0,0,,- 别动 举起手来 - 快点儿 \N- Don't move. - Now!
 Dialogue: 0,0:22:01.14,0:22:02.19,Default,,0,0,0,,很好\NGood job.
-Dialogue: 0,0:22:02.21,0:22:04.21,Default,,0,0,0,,都趴下 脸冲着地板\NGet your noses in the carpet.
+Dialogue: 0,0:22:02.21,0:22:04.21,Default,,0,0,0,,都脸朝下趴好\NGet your noses in the carpet.
 Dialogue: 0,0:22:04.88,0:22:07.25,Default,,0,0,0,,我叫贱女·姜戈\NMy name is Junglepussy.
-Dialogue: 0,0:22:04.88,0:22:07.33,Default,,0,0,0,,{\an7}【贱女·姜戈：自称丛林法则者 以挑衅性名称作为反制标识】
-Dialogue: 0,0:22:07.34,0:22:09.68,Default,,0,0,0,,这个 就是绝对的力量\NThis is what power looks like.
-Dialogue: 0,0:22:10.34,0:22:11.26,Default,,0,0,0,,看到我的脸了吗？\NSee my face?
+Dialogue: 0,0:22:04.88,0:22:09.79,Default,,0,0,0,,{\an7}【贱女·姜戈：象征游击式反抗与自由 以挑衅性名称作为反制标识】
+Dialogue: 0,0:22:07.34,0:22:09.79,Default,,0,0,0,,看 这就是权力\NThis is what power looks like.
+Dialogue: 0,0:22:10.34,0:22:11.26,Default,,0,0,0,,看清楚了吗？\NSee my face?
 Dialogue: 0,0:22:11.29,0:22:12.46,Default,,0,0,0,,装进去\NPut it there.
 Dialogue: 0,0:22:12.52,0:22:14.54,Default,,0,0,0,,- 我们就像《辣姐妹》一样 - 举起手\N- This some Set It Off shit. - Hands up.
-Dialogue: 0,0:22:12.52,0:22:14.59,Note,,0,0,0,,{\an7}【《辣姐妹》（1996）：四位女性因贫困与不公筹划抢劫】
+Dialogue: 0,0:22:12.52,0:22:18.01,Note,,0,0,0,,{\an7}【《辣姐妹》（1996）：四位女性因贫困与不公筹划抢劫】
 Dialogue: 0,0:22:14.64,0:22:18.06,Default,,0,0,0,,我不要命 我只要你们的钱\NI don't want you. I just want your money.
 Dialogue: 0,0:22:18.66,0:22:21.24,Default,,0,0,0,,你们的钱 会变成我的武器\NYour money pays for my artillery, 
 Dialogue: 0,0:22:21.55,0:22:22.70,Default,,0,0,0,,我的补给\Nmy supplies,
-Dialogue: 0,0:22:22.72,0:22:24.08,Default,,0,0,0,,我开的车子\Nmy transportation, 
+Dialogue: 0,0:22:22.72,0:22:24.13,Default,,0,0,0,,我开的车子\Nmy transportation, 
 Dialogue: 0,0:22:24.15,0:22:25.37,Default,,0,0,0,,我的炸药\Nmy dynamite, 
 Dialogue: 0,0:22:25.53,0:22:26.83,Default,,0,0,0,,我的宣言\Nmy message.
-Dialogue: 0,0:22:27.48,0:22:29.94,Default,,0,0,0,,我就是黑人力量的代表\NI am what Black Power looks like.
-Dialogue: 0,0:22:30.45,0:22:31.75,Default,,0,0,0,,看我的脸\NSee my face?
-Dialogue: 0,0:22:32.79,0:22:35.64,Default,,0,0,0,,看到了吗？我们是法式七五\NSee my face! I'm the French 75!
+Dialogue: 0,0:22:27.48,0:22:29.94,Default,,0,0,0,,我就是黑人力量的化身\NI am what Black Power looks like.
+Dialogue: 0,0:22:30.45,0:22:31.75,Default,,0,0,0,,看清楚了吗？\NSee my face?
+Dialogue: 0,0:22:32.79,0:22:35.64,Default,,0,0,0,,看清楚 我们是法式七五\NSee my face! I'm the French 75!
 Dialogue: 0,0:22:41.12,0:22:42.27,Default,,0,0,0,,不要乱动\NStop moving.
 Dialogue: 0,0:22:44.64,0:22:47.52,Default,,0,0,0,,我说别动 听见了吗？\NStop fucking moving.
 Dialogue: 0,0:22:49.84,0:22:51.71,Default,,0,0,0,,拜托你别动了 好吗？\NStop fuckin' moving, man.
@@ -403,21 +402,22 @@ Dialogue: 0,0:24:44.04,0:24:44.92,Default,,0,0,0,,站住 警察\NStop! Police!
 Dialogue: 0,0:24:59.85,0:25:01.23,Default,,0,0,0,,拷住左手\NCuff the left arm, please.
 Dialogue: 0,0:25:24.07,0:25:25.90,Default,,0,0,0,,这个部门不会对谁网开一面\NThis department doesn't do any special favors,
 Dialogue: 0,0:25:25.92,0:25:27.75,Default,,0,0,0,,尤其是黑人女孩\Nespecially for Black girls.
-Dialogue: 0,0:25:28.88,0:25:30.82,Default,,0,0,0,,你杀过人 这还是轻的\NYou're a killer, and that's the least of it.
-Dialogue: 0,0:25:30.84,0:25:32.90,Default,,0,0,0,,得判个30年\NYou'll do 30, 
-Dialogue: 0,0:25:32.92,0:25:34.63,Default,,0,0,0,,没准儿要判40年\N40 years in prison.
+Dialogue: 0,0:25:28.84,0:25:30.82,Default,,0,0,0,,你杀人了 这还是轻的\NYou're a killer, and that's the least of it.
+Dialogue: 0,0:25:30.84,0:25:32.90,Default,,0,0,0,,判个三十年\NYou'll do 30,
+Dialogue: 0,0:25:32.92,0:25:34.63,Default,,0,0,0,,或者四十年\N40 years in prison.
 Dialogue: 0,0:25:36.39,0:25:38.88,Default,,0,0,0,,可惜你不认识什么大人物\NIt's too bad you don't know anybody with sway.
 Dialogue: 0,0:25:48.77,0:25:50.15,Default,,0,0,0,,你可以救我\NYou can save me.
 Dialogue: 0,0:26:09.71,0:26:11.39,Default,,0,0,0,,因为你爱上我了\NBecause you're in love with me.
-Dialogue: 0,0:26:14.05,0:26:14.88,Default,,0,0,0,,是的\NYes.
+Dialogue: 0,0:26:13.98,0:26:14.88,Default,,0,0,0,,是的\NYes.
 Dialogue: 0,0:26:17.43,0:26:18.97,Default,,0,0,0,,你没有我就活不下去\NAnd you can't live without me.
 Dialogue: 0,0:26:21.14,0:26:22.29,Default,,0,0,0,,能抱抱我吗？\NCan you hold me?
-Dialogue: 0,0:26:24.81,0:26:26.77,Default,,0,0,0,,我会给你一个拥抱\NI can give you the embrace
-Dialogue: 0,0:26:28.48,0:26:29.96,Default,,0,0,0,,联邦政府的拥抱\Nof the federal government.
+Dialogue: 0,0:26:24.77,0:26:26.77,Default,,0,0,0,,不如我让联邦政府\NI can give you the embrace
+Dialogue: 0,0:26:28.48,0:26:30.15,Default,,0,0,0,,给你个拥抱吧\Nof the federal government.
 Dialogue: 0,0:26:32.63,0:26:35.08,Default,,0,0,0,,你得说出他们在哪儿 列个名单\NYou've gotta tell me where they are, and name names.
 Dialogue: 0,0:26:36.49,0:26:37.75,Default,,0,0,0,,不要这样\NDon't do this.
 Dialogue: 0,0:26:39.59,0:26:42.26,Default,,0,0,0,,你不想坐牢 就得交代名单\NYou have to name names, or you're gonna go to prison.
-Dialogue: 0,0:26:45.54,0:26:48.00,Default,,0,0,0,,明妮阿姨 有儿童座椅或者背带吗？\NMiss Minnie, do you have a car seat or a carrier?
+Dialogue: 0,0:26:43.22,0:26:44.22,Default,,0,0,0,,【小p处理至此】
+Dialogue: 0,0:26:45.48,0:26:48.00,Default,,0,0,0,,明妮阿姨 有儿童座椅或者背带吗？\NMiss Minnie, do you have a car seat or a carrier?
 Dialogue: 0,0:26:48.03,0:26:49.16,Default,,0,0,0,,没有 亲爱的\NNo, no, no, baby.
 Dialogue: 0,0:26:49.58,0:26:52.61,Default,,0,0,0,,这两个是我做的信号装置\NThese are two scanners that I've made.
 Dialogue: 0,0:26:52.63,0:26:54.32,Default,,0,0,0,,这个能播放乐曲A\NThis one plays Melody A.
