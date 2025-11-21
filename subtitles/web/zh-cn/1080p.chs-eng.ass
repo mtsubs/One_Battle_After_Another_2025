@@ -351,8 +351,8 @@ Dialogue: 0,0:19:59.56,0:20:01.58,Default,,0,0,0,,你以为你还能去哪儿？
 Dialogue: 0,0:20:11.23,0:20:12.46,Default,,0,0,0,,好啦 宝宝\NIt's okay, baby.
 Dialogue: 0,0:20:12.69,0:20:14.60,Default,,0,0,0,,没事的 不哭了\NIt's okay, baby. It's okay.
 Dialogue: 0,0:20:15.52,0:20:18.61,Default,,0,0,0,,宝宝不哭 没事的\NIt's okay, baby. It's okay.
-Dialogue: 0,0:20:20.77,0:20:22.27,Default,,0,0,0,,行 那我换个活法\NThis is a new consciousness.
-Dialogue: 0,0:20:23.19,0:20:24.44,Default,,0,0,0,,换个活法？\NNew consciousness?
+Dialogue: 0,0:20:20.77,0:20:22.27,Default,,0,0,0,,不要给我灌输你的想法！\NThis is a new consciousness.
+Dialogue: 0,0:20:23.19,0:20:24.44,Default,,0,0,0,,我的想法？\NNew consciousness?
 Dialogue: 0,0:20:24.46,0:20:25.39,Default,,0,0,0,,对\NYeah.
 Dialogue: 0,0:20:26.66,0:20:28.33,Default,,0,0,0,,我可不是孩子保姆\NI'm not your udder buddy.
 Dialogue: 0,0:20:29.49,0:20:31.06,Default,,0,0,0,,我也不是你妈\NI'm not your mother.
@@ -2796,3 +2796,4 @@ Dialogue: 0,2:41:30.57,2:41:35.29,Note,,0,0,0,,{\an8}（领域娱乐）
 Dialogue: 0,2:41:31.11,2:41:32.26,Default,,0,0,0,,开拍\NAction.
 Dialogue: 0,2:41:36.30,2:41:40.73,Note,,0,0,0,,{\an2}（华纳兄弟影业）
 Dialogue: 0,2:41:41.73,2:41:46.13,Note,,0,0,0,,{\an2}蒙太奇字幕组 (MontageSubs)\N用 爱 发 电 ❤️ Powered by love
+
